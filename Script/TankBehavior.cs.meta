@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4b3ba87fb1d2d4c418c3e5620bd1f227
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objectTembakan: {fileID: 100002, guid: 4added456bd62c64186610df5ea5a191, type: 3}
+  - objectLedakan: {fileID: 100006, guid: 478e6909195de124a99e67c450a6b952, type: 3}
+  - peluruMeriam: {fileID: 803424915718013019, guid: 764d37e750b4fe948878a98be3b84e99,
+      type: 3}
+  - audioTembakan: {fileID: 8300000, guid: 48c54fe1174a1084fb6944917120e8de, type: 3}
+  - audioLedakan: {fileID: 8300000, guid: 6b83b7122186dad43865f27c804f1ff0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
