@@ -104,9 +104,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 803424915718013019}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 211.83792, y: 0.172571, z: 312.5484}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 803424915718249593}
   m_Father: {fileID: 0}
@@ -127,6 +127,7 @@ MonoBehaviour:
   waktuTerbangPeluru: 0
   audioLedakan: {fileID: 8300000, guid: 6b83b7122186dad43865f27c804f1ff0, type: 3}
   ledakan: {fileID: 100006, guid: 478e6909195de124a99e67c450a6b952, type: 3}
+  gameManager: {fileID: 0}
 --- !u!136 &1527019556810804140
 CapsuleCollider:
   m_ObjectHideFlags: 0
